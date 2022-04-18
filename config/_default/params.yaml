@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} CIGRE Cyprus NC. This work is licensed under {license}'
+    notice: '© {year} CIGRE Cyprus. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

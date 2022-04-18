@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Challenges and Trends in Future Power Systems
+date: 2022-05-09
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Kick-off event of the CIGRE Cyprus National committee concerning Challenges and Trends in Future Power Systems.
 
 <!--more-->
 
