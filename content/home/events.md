@@ -4,14 +4,14 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Events
 subtitle:
 
 content:
   # Filter content to display
   filters:
     folders:
-      - post
+      - events
     tag: ''
     category: ''
     publication_type: ''
