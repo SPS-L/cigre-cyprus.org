@@ -30,7 +30,7 @@ content:
   contact_links:
     - icon: linkedin
       icon_pack: fab
-      name: LinkedIN
+      name: CIGRE Cyprus LinkedIN Group
       link: 'https://www.linkedin.com/company/cigre-cyprus/'
 
   # Automatically link email and phone or display as text?

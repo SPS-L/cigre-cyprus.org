@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CIGRE Cyprus NC
+title: CIGRE Cyprus
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,20 +10,11 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: CIGRE
-  url: ""
+- name: CIGRE Cyprus
+  url: "https://cigre-cyprus.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
-interests:
-- 
-
-education:
-  courses:
-  - course: 
-    institution: 
-    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
