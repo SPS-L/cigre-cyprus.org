@@ -27,6 +27,11 @@ content:
   #coordinates:
   #  latitude: '37.4275'
   #  longitude: '-122.1697'
+  contact_links:
+    - icon: linkedin
+      icon_pack: fab
+      name: LinkedIN
+      link: 'https://www.linkedin.com/company/cigre-cyprus/'
 
   # Automatically link email and phone or display as text?
   autolink: true
