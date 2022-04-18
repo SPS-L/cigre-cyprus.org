@@ -13,7 +13,7 @@ address:
   country: Cyprus
 
 summary: Kick-off event of the CIGRE Cyprus National committee concerning Challenges and Trends in Future Power Systems.
-abstract: [Registration link](https://www.eventbrite.co.uk/e/297998761317/)
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -54,4 +54,6 @@ slides:
 projects:
 ---
 
+[Registration link](https://www.eventbrite.co.uk/e/297998761317/)
 
+![Program](./program.png)
