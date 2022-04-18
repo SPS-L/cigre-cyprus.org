@@ -2,7 +2,7 @@
 title: Challenges and Trends in Future Power Systems
 
 event: CIGRE Cyprus NC events
-event_url: https://cigre-cyprus.org
+event_url: https://www.eventbrite.co.uk/e/297998761317/
 
 location: Κεντρικά Γραφεία Αρχής Ηλεκτρισμού Κύπρου (ΗΛΕΚΤΡΟΝ) 
 address:
@@ -53,7 +53,5 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-[Registration link](https://www.eventbrite.co.uk/e/297998761317/)
 
 ![Program](./program.png)
