@@ -4,7 +4,7 @@ title: Challenges and Trends in Future Power Systems
 event: CIGRE Cyprus NC events
 event_url: https://cigre-cyprus.org
 
-location: EAC 
+location: Κεντρικά Γραφεία Αρχής Ηλεκτρισμού Κύπρου (ΗΛΕΚΤΡΟΝ) 
 address:
   street: 11 Amfipolis
   city: Nicosia
@@ -13,16 +13,16 @@ address:
   country: Cyprus
 
 summary: Kick-off event of the CIGRE Cyprus National committee concerning Challenges and Trends in Future Power Systems.
-abstract: ""
+abstract: [Registration link](https://www.eventbrite.co.uk/e/297998761317/)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2022-05-09T13:30:00Z"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2022-04-01T00:00:00Z"
 
 authors: []
 tags: []
