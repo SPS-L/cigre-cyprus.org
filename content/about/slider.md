@@ -16,14 +16,14 @@ design:
 content:
   slides:
   - title: Founded
-    content: CIGRE Cyprus NC was founded in ???
+    content: CIGRE Cyprus established in 2008, is the National Committee and local representative organisation of CIGRE in Cyprus.
     align: center
     background:
       position: right
       color: '#666'
       brightness: 0.7
       media: solar-slider.jpg
-  - title: 
+  - title: Benefits
     content: 
     align: left
     background:
@@ -31,23 +31,20 @@ content:
       color: '#555'
       brightness: 0.7
       media: power-slider.jpg
-  - title: 
-    content: 
+    link:
+      icon: fa-people-group
+      icon_pack: fas
+      text: Information
+      url: './static/Cyprus_NC_Profile.pdf'
+  - title: Members
+    content: Currently, CIGRE Cyprus numbers 40 members, ranging from individuals to large scale companies (TSOC, DSOC, EAC, Vassiliko) and universities (UCY, CUT, Frederick University).
     align: right
     background:
       position: center
       color: '#333'
       brightness: 0.5
       media: slideshow-1.jpg
-  - title: 
-    content: 
-    align: right
-    background:
-      position: center
-      color: '#333'
-      brightness: 0.5
-      media: people-slider.jpg
-  - title: 
+  - title: How to join!
     content: 
     align: right
     background:
@@ -56,8 +53,8 @@ content:
       brightness: 0.5
       media: slideshow-3.jpg
     link:
-      icon: graduation-cap
+      icon: fa-people-group
       icon_pack: fas
       text: Join Us
-      url: '../#contact'
+      url: 'https://join.cigre.org'
 ---
