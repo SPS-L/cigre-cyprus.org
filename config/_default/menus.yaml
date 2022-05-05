@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: "./static/Cyprus_NC_Profile.pdf"
+    url: "./Cyprus_NC_Profile.pdf"
     weight: 10
   - name: News
     url: post
