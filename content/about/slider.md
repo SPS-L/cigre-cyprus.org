@@ -23,8 +23,16 @@ content:
       color: '#666'
       brightness: 0.7
       media: solar-slider.jpg
-  - title: Benefits
-    content: 
+  - title: Key membership benefits
+    content: 1. Be prepared for future key trends, innovations and challenges
+2. Learn from real world experiences, lessons and successes
+3. Inform decisions with diverse perspectives from every corner of the world
+4. Collaborate with your local National Committee and solve local challenges
+5. Source the most authoritative reference information at e-cigre.org
+6. Get unbiased facts focused on real world technical solutions
+7. Benefit from access, at a nominal cost, to world leading experts
+8. Grow your individual or organisational skills in CIGRE's unique peer to peer environment
+9. Connect with your industry in a technical setting
     align: left
     background:
       position: center
@@ -34,8 +42,8 @@ content:
     link:
       icon: fa-people-group
       icon_pack: fas
-      text: Information
-      url: './static/Cyprus_NC_Profile.pdf'
+      text: Brochure
+      url: './Cyprus_NC_Profile.pdf'
   - title: Members
     content: Currently, CIGRE Cyprus numbers 40 members, ranging from individuals to large scale companies (TSOC, DSOC, EAC, Vassiliko) and universities (UCY, CUT, Frederick University).
     align: right
