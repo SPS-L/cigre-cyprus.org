@@ -37,8 +37,8 @@ content:
     align: left
     background:
       position: center
-      color: '#555'
-      brightness: 0.7
+      color: '#666'
+      brightness: 0.4
       media: power-slider.jpg
     link:
       icon: fa-people-group
