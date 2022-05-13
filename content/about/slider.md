@@ -24,21 +24,21 @@ content:
       brightness: 0.7
       media: solar-slider.jpg
   - title: Key membership benefits
-    content: | 
-      1. Be prepared for future key trends, innovations and challenges
-      2. Learn from real world experiences, lessons and successes
-      3. Inform decisions with diverse perspectives from every corner of the world
-      4. Collaborate with your local National Committee and solve local challenges
-      5. Source the most authoritative reference information at e-cigre.org
-      6. Get unbiased facts focused on real world technical solutions
-      7. Benefit from access, at a nominal cost, to world leading experts
-      8. Grow your individual or organisational skills in CIGRE's unique peer to peer environment
-      9. Connect with your industry in a technical setting
+    content: |
+      Be prepared for future key trends, innovations and challenges.
+      Learn from real world experiences, lessons and successes.
+      Inform decisions with diverse perspectives from every corner of the world.
+      Collaborate with your local National Committee and solve local challenges.
+      Source the most authoritative reference information.
+      Get unbiased facts focused on real world technical solutions.
+      Benefit from access, at a nominal cost, to world leading experts.
+      Grow your individual or organisational skills in CIGRE's unique peer to peer environment.
+      Connect with your industry in a technical setting.
     align: left
     background:
-      position: center
+      position: right
       color: '#666'
-      brightness: 0.9
+      brightness: 0.7
       media: power-slider.jpg
     link:
       icon: fa-people-group
@@ -46,16 +46,16 @@ content:
       text: Brochure
       url: './Cyprus_NC_Profile.pdf'
   - title: Members
-    content: Currently, CIGRE Cyprus numbers 40 members, ranging from individuals to large scale companies (TSOC, DSOC, EAC, Vassiliko) and universities (UCY, CUT, Frederick University).
+    content: Currently, CIGRE Cyprus numbers 40 members, ranging from individuals to large scale companies (such as, TSOC, DSOC, EAC, Vassiliko) and universities (such as, UCY, CUT, Frederick University).
     align: right
     background:
       position: center
       color: '#333'
       brightness: 0.5
       media: slideshow-1.jpg
-  - title: How to join!
+  - title: Join now!
     content: 
-    align: right
+    align: center
     background:
       position: center
       color: '#333'
