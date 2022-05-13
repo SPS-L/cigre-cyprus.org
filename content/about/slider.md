@@ -44,7 +44,7 @@ content:
       icon: fa-people-group
       icon_pack: fas
       text: Brochure
-      url: './Cyprus_NC_Profile.pdf'
+      url: '../Cyprus_NC_Profile.pdf'
   - title: Members
     content: Currently, CIGRE Cyprus numbers 40 members, ranging from individuals to large scale companies (such as, TSOC, DSOC, EAC, Vassiliko) and universities (such as, UCY, CUT, Frederick University).
     align: right
