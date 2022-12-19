@@ -12,7 +12,7 @@ address:
   postcode: '2000'
   country: Κύπρος
 
-summary: Kick-off event of the CIGRE Cyprus National committee concerning Challenges and Trends in Future Power Systems.
+summary: ""
 abstract: ""
 
 # Talk start and end times.
