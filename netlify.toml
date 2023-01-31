@@ -25,3 +25,7 @@
   to = "https://forms.gle/kCPeH1xebhAX1LjT8"
   status = 302
 
+[[redirects]]
+  from = "/WGs"
+  to = "https://www.dropbox.com/s/ynva0k222fxjrf8/WG_members.xlsx?dl=0"
+  status = 302
