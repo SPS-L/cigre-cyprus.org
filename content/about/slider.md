@@ -65,5 +65,5 @@ content:
       icon: fa-people-group
       icon_pack: fas
       text: Join Us
-      url: 'https://join.cigre.org'
+      url: 'https://cigre-cyprus.org/join'
 ---
