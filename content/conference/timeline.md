@@ -25,10 +25,10 @@ experience:
     date_end: '2023-08-31'
     description: ''
                 
-  - title: 'Acceptance'
+  - title: 'Paper Acceptance Announcement'
     company: ''
-    company_url: 'https://blah.com'
+    company_url: ''
     company_logo:
-    date_start: '2023-07-01'
-    date_end: ''
+    date_start: '2023-09-15'
+    date_end: '2023-09-15'
     description: ''
