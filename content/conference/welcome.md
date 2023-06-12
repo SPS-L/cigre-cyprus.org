@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 1  # Order that this section will appear.
 title: CIGRE Cyprus National Conference 2023
-hero_media: 
+hero_media: CIGRE_Cyprus.png
 cta:
   url: 'https://wowchemy.com'
   label: Submit Abstract
@@ -25,8 +25,8 @@ design:
   css_style:
   css_class:
   background:
-    gradient_end: '#007e4f'
-    gradient_start: '#004ba0'
+    gradient_end: '#004ba0'
+    gradient_start: '#007e4f'
     text_color_light: true
 ---
 

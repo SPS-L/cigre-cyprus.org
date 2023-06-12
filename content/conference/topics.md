@@ -19,7 +19,7 @@ feature:
     icon_pack: fas
     name: Renewable Sources
     description: 
-  - icon: transformer-bolt
+  - icon: utility-pole-double
     icon_pack: fas
     name: Transmission System
     description: 
