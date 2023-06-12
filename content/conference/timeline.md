@@ -9,7 +9,7 @@ weight: 10 # The position of section on page
 
 # Date format
 #   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
-date_format: Jan 2006
+date_format: 1 Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
@@ -18,12 +18,12 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 experience:
   - title: 'Call for papers'
-    company: ''
+    company: 'Submit Paper'
     company_url: 'https://blah.com'
     company_logo:
     date_start: '2023-07-01'
     date_end: '2023-08-31'
-    description: ''
+    description: 'This is...'
                 
   - title: 'Paper Acceptance Announcement'
     company: ''
@@ -31,6 +31,6 @@ experience:
     company_logo:
     date_start: '2023-09-15'
     date_end: '2023-09-15'
-    description: ''
+    description: 'This is...'
     
 --- 
