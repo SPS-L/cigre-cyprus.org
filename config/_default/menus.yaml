@@ -14,9 +14,6 @@ main:
     url: event
     weight: 40
   - name: Conference
-    url: conf
-    weight: 50
-  - name: Conference
     url: conference
     weight: 50
   - name: Contact
