@@ -18,12 +18,12 @@ date_format: 1 Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 experience:
   - title: 'Call for papers'
-    company: 'Submit Paper'
+    company: 'Paper Submission Link'
     company_url: 'https://blah.com'
     company_logo:
     date_start: '2023-07-01'
     date_end: '2023-08-31'
-    description: 'This is...'
+    description: 'Papers will be accepted and reviewd.'
                 
   - title: 'Paper Acceptance Announcement'
     company: ''
@@ -31,6 +31,14 @@ experience:
     company_logo:
     date_start: '2023-09-15'
     date_end: '2023-09-15'
-    description: 'This is...'
+    description: 'The authors will receive an acceptance email and a preliminary program will be communicated.'
+
+  - title: 'Registration'
+    company: ''
+    company_url: ''
+    company_logo:
+    date_start: '2023-10-01'
+    date_end: '2023-11-11'
+    description: 'The registration will open and will continue until the day of the conference or the maximum number of attendees.'
     
 --- 

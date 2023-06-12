@@ -12,7 +12,7 @@ cta:
   url: 'https://wowchemy.com'
   label: Submit Abstract
   icon_pack: fas
-  icon: download
+  icon: upload
 
 # Note. An optional note to show underneath the links.
 cta_note:
@@ -25,7 +25,7 @@ design:
   css_style:
   css_class:
   background:
-    gradient_end: '#1976d2'
+    gradient_end: '#007e4f'
     gradient_start: '#004ba0'
     text_color_light: true
 ---
