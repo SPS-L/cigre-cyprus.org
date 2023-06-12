@@ -40,5 +40,12 @@ experience:
     date_start: '2023-10-01'
     date_end: '2023-11-11'
     description: 'The registration will open and will continue until the day of the conference or the maximum number of attendees.'
+
+  - title: 'Conference Day'
+    company: ''
+    company_url: ''
+    company_logo:
+    date_start: '2023-10-01'
+    description: 'Information about the venue will be announced closer to the date.'
     
 --- 

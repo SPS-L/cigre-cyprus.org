@@ -20,7 +20,7 @@ cta_note:
 
 # Choose an optional background color, gradient, image, or video
 design:
-  columns: '1'
+  columns: '2'
    # Add custom styles
   css_style:
   css_class:
@@ -30,4 +30,4 @@ design:
     text_color_light: true
 ---
 
-
+The CIGRE Cyprus National Conference is an annual conference organized by the CIGRE Cyprus National Committee to bring together practitioners and researchers working in the area of Power and Energy Systems.
