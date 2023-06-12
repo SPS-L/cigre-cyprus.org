@@ -5,17 +5,32 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: Welcome to CIGRE Cyprus
+weight: 1  # Order that this section will appear.
+title: CIGRE Cyprus National Conference 2023
 hero_media: CIGRE_Cyprus.png
+cta:
+  url: 'https://wowchemy.com'
+  label: Get Started
+  icon_pack: fas
+  icon: download
+cta_alt:
+  url: 'https://wowchemy.com'
+  label: View Documentation
+
+# Note. An optional note to show underneath the links.
+cta_note:
+  label: ''
+
+# Choose an optional background color, gradient, image, or video
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  # Add custom styles
+   # Add custom styles
   css_style:
   css_class:
+  background:
+    gradient_end: '#1976d2'
+    gradient_start: '#004ba0'
+    text_color_light: true
 ---
 
-<br>
 
-CIGRE is the foremost global community for the collaborative development and sharing of power system expertise. CIGRE Cyprus, established in 2008, is the National Committee and local representative organisation of CIGRE.
