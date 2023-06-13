@@ -16,7 +16,7 @@ date_format: '1 Jan 2006'
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
-experience:
+timeline:
   - title: 'Call for abstracts'
     company: 'Abstract Submission Link'
     company_url: 'https://blah.com'

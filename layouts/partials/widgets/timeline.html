@@ -33,9 +33,9 @@
             {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
           </div>
           <div class="text-muted exp-meta">
-            {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
+            {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} 
             {{ if .date_end}}
-              {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+              – {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
             {{end}}
             {{with .location}}
               <span class="middot-divider"></span>
