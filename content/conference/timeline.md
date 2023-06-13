@@ -1,5 +1,5 @@
 ---
-widget: experience
+widget: timeline
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
@@ -29,8 +29,8 @@ experience:
     company: ''
     company_url: ''
     company_logo:
-    date_start: ''
-    date_end: '2023-09-31'
+    date_start: '2023-09-31'
+    date_end: ''
     description: 'The authors will receive an acceptance email.'
 
   - title: 'Registration'
@@ -45,8 +45,8 @@ experience:
     company: ''
     company_url: ''
     company_logo:
-    date_start: ''
-    date_end: '2023-11-14'
+    date_start: '2023-11-14'
+    date_end: ''
     description: 'Information about the venue will be announced closer to the date.'
     
 --- 
