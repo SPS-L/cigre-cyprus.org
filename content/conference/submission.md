@@ -23,6 +23,6 @@ The purpose of the CIGRE Cyprus National Conference is to showcase the research 
 
 ## Submission process
 ​
-The authors need to submit a one-page summary [using this template here](../Abstract_Template.docx) send to [conference@cigre-cyprus.org](mailto:conference@cigre-cyprus.org). A full paper is **not** required. The summary should cover the motivation, methodology, and application of your work.
+The authors need to submit a one-page summary [using this template here](../Abstract_Template.docx) submit to [this link](https://form.jotform.com/231633906259460). A full paper is **not** required. The summary should cover the motivation, methodology, and application of your work.
 
 ​We'll decide whether to put you down for an oral or poster presentation based on the mix of submissions we receive but if you have a preference for an oral or poster - let us know in your email. We can't promise you'll get your request as it all depends on space - but we'll do our best to keep everyone happy.
