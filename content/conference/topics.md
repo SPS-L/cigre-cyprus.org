@@ -11,24 +11,28 @@ weight: 5 # The position of section on page
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: car-battery
-    icon_pack: fas
-    name: Energy Storage
-    description: 
-  - icon: solar-panel
-    icon_pack: fas
-    name: Renewable Sources
-    description: 
-  - icon: bolt
-    icon_pack: fas
-    name: Transmission System
-    description: 
-  - icon: industry
-    icon_pack: fas
-    name: Load 
-    description:  
   - icon: ev
     icon_pack: custom
     name: Electromobility
     description: 
+  - icon: energy
+    icon_pack: custom
+    name: Electromobility
+    description: 
+  - icon: power-line
+    icon_pack: custom
+    name: Electromobility
+    description: 
+  - icon: solar-panel
+    icon_pack: custom
+    name: Electromobility
+    description: 
+  - icon: green-city
+    icon_pack: custom
+    name: Electromobility
+    description: 
+  - icon: power-plant
+    icon_pack: custom
+    name: Electromobility
+    description:      
 ---
