@@ -2,6 +2,7 @@
 {{ $page := .page }}
 {{ $columns := $page.Params.design.columns | default "2" }}
 
+<div class="row featurette"></div>
 {{ with $page.Title }}
   <div class="col-md-12 section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
