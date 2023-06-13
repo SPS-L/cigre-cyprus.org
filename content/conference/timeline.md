@@ -3,9 +3,9 @@ widget: timeline
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Timeline
+title: Important Dates
 subtitle:
-weight: 10 # The position of section on page
+weight: 9 # The position of section on page
 
 # Date format
 #   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format

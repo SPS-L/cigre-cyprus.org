@@ -12,4 +12,4 @@ design:
   columns: '1'
 ---
 
-Add any content here - text, images, videos, galleries - and even HTML code!
+To be announced by Sunday, Oct 1, 2023.
