@@ -2,13 +2,13 @@
 {{ $page := .page }}
 {{ $columns := $page.Params.design.columns | default "2" }}
 
-<!-- Experience widget -->
+<!-- Timeline widget -->
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
   {{ with $page.Content }}{{ . }}{{ end }}
 
-  {{ if $page.Params.experience }}
-  {{ $exp_len := len $page.Params.experience }}
-  {{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }}
+  {{ if $page.Params.timeline }}
+  {{ $exp_len := len $page.Params.timeline }}
+  {{ range $idx, $key := sort $page.Params.timeline ".date_start" "desc" }}
   <div class="row experience">
     <!-- Timeline -->
     <div class="col-auto text-center flex-column d-none d-sm-flex">
