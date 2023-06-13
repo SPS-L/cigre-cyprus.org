@@ -23,7 +23,7 @@ timeline:
     company_logo:
     date_start: '2023-07-01'
     date_end: '2023-09-11' 
-    description: 'Abstracts will be accepted and reviewed.'
+    description: ''
                 
   - title: 'Paper Acceptance Announcement'
     company: ''
@@ -31,15 +31,15 @@ timeline:
     company_logo:
     date_start: '2023-09-30'
     date_end: ''
-    description: 'The authors will receive an acceptance email.'
+    description: ''
 
-  - title: 'Registration'
-    company: ''
+  - title: 'Registration Period'
+    company: 'Registration Link'
     company_url: ''
     company_logo:
     date_start: '2023-10-01' 
     date_end: '2023-11-14' 
-    description: 'The registration will open and will continue until the day of the conference or the maximum number of attendees.'
+    description: ''
 
   - title: 'Conference Day'
     company: ''
@@ -47,6 +47,6 @@ timeline:
     company_logo:
     date_start: '2023-11-14' 
     date_end: ''
-    description: 'Information about the venue will be announced closer to the date.'
+    description: ''
     
 --- 
