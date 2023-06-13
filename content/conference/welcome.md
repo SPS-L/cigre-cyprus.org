@@ -9,7 +9,7 @@ weight: 1  # Order that this section will appear.
 title: CIGRE Cyprus National Conference 2023
 hero_media: CIGRE_Cyprus.png
 cta:
-  url: '#Paper Submission'
+  url: 'conference/#Paper Submission'
   label: Submit Abstract
   icon_pack: fas
   icon: upload
