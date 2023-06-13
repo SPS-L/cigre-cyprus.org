@@ -30,6 +30,6 @@ design:
     text_color_light: true
 ---
 
-The CIGRE Cyprus National Conference is an annual conference organized by the CIGRE Cyprus National Committee to bring together practitioners and researchers working in the area of Power and Energy Systems.
+The CIGRE Cyprus National Conference is an annual conference organized by the CIGRE Cyprus National Committee to bring together practitioners and researchers working in the area of Power and Energy Systems in Cyprus.
 
 <br>
