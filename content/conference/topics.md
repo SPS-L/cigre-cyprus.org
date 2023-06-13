@@ -17,22 +17,22 @@ feature:
     description: 
   - icon: energy
     icon_pack: custom
-    name: Electromobility
+    name: Energy Storage
     description: 
   - icon: power-line
     icon_pack: custom
-    name: Electromobility
+    name: Power Networks
     description: 
   - icon: solar-panel
     icon_pack: custom
-    name: Electromobility
+    name: Renewable Energy Sources
     description: 
   - icon: green-city
     icon_pack: custom
-    name: Electromobility
+    name: Smart Cities
     description: 
   - icon: power-plant
     icon_pack: custom
-    name: Electromobility
+    name: Energy Generation
     description:      
 ---
