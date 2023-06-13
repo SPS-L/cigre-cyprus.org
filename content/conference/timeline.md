@@ -19,7 +19,7 @@ date_format: 'Monday, Jan 2, 2006'
 timeline:
   - title: 'Call for abstracts'
     company: 'Abstract Submission Link'
-    company_url: 'https://blah.com'
+    company_url: 'https://forms.gle/A9Mb9gZq62GjkdKN6'
     company_logo:
     date_start: '2023-07-01'
     date_end: '2023-09-11' 

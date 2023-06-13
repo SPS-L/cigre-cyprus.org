@@ -39,4 +39,12 @@ feature:
     icon_pack: custom
     name: Power System Dynamics
     description:   
+  - icon: energy-economics
+    icon_pack: custom
+    name: Energy Economics
+    description:   
+  - icon: diode
+    icon_pack: custom
+    name: Power Electronics
+    description:     
 ---

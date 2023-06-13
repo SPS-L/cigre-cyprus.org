@@ -9,7 +9,7 @@ weight: 1  # Order that this section will appear.
 title: CIGRE Cyprus National Conference 2023
 hero_media: CIGRE_Cyprus.png
 cta:
-  url: 'https://wowchemy.com'
+  url: 'https://forms.gle/A9Mb9gZq62GjkdKN6'
   label: Submit Abstract
   icon_pack: fas
   icon: upload
