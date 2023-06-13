@@ -35,4 +35,8 @@ feature:
     icon_pack: custom
     name: Energy Generation
     description:      
+  - icon: sinusoid
+    icon_pack: custom
+    name: Power System Dynamics
+    description:   
 ---
