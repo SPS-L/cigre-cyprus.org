@@ -2,6 +2,13 @@
 {{ $page := .page }}
 {{ $columns := $page.Params.design.columns | default "2" }}
 
+{{ with $page.Title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+{{ end }}
+
 <!-- Timeline widget -->
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
   {{ with $page.Content }}{{ . }}{{ end }}
