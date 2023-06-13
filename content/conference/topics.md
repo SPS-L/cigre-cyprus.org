@@ -13,11 +13,11 @@ weight: 5 # The position of section on page
 feature:
   - icon: ev
     icon_pack: custom
-    name: Electromobility
+    name: Energy Storage
     description: 
   - icon: energy
     icon_pack: custom
-    name: Energy Storage
+    name: Electromobility
     description: 
   - icon: power-line
     icon_pack: custom
