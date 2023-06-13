@@ -19,8 +19,16 @@ feature:
     icon_pack: fas
     name: Renewable Sources
     description: 
-  - icon: utility-pole-double
+  - icon: bolt
     icon_pack: fas
     name: Transmission System
+    description: 
+  - icon: industry
+    icon_pack: fas
+    name: Load 
+    description:  
+  - icon: ev
+    icon_pack: custom
+    name: Electromobility
     description: 
 ---
