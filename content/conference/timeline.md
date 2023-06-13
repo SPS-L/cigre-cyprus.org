@@ -18,8 +18,8 @@ date_format: 'Monday, Jan 2, 2006'
 #   Begin/end multi-line descriptions with `>-`.
 timeline:
   - title: 'Call for abstracts'
-    company: 'Abstract Submission Link'
-    company_url: 'https://forms.gle/A9Mb9gZq62GjkdKN6'
+    company: ''
+    company_url: ''
     company_logo:
     date_start: '2023-07-01'
     date_end: '2023-09-11' 
@@ -33,8 +33,8 @@ timeline:
     date_end: ''
     description: ''
 
-  - title: 'Registration Period'
-    company: 'Registration Link'
+  - title: 'Registration'
+    company: ''
     company_url: ''
     company_logo:
     date_start: '2023-10-01' 
