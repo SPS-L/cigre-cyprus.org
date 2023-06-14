@@ -15,5 +15,6 @@ design:
     gradient_start: '#007e4f'
     text_color_light: true
 ---
+![image](ucy.jpg){: style="float: left"}
 
-To be announced by Sunday, Oct 1, 2023.
+Some text.
