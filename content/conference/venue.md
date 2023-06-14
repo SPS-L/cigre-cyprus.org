@@ -16,6 +16,6 @@ design:
     text_color_light: true
 ---
 
-{{< github-Chrede88-figArray numCols=<numCols> srcArray="ucy.jpg,ucy.jpg" thumbCaption="thumb1,thumb2" figCaption="figCaption" >}}
+{{< github-Chrede88-figArray numCols=2 srcArray="ucy.jpg,ucy.jpg" thumbCaption="thumb1,thumb2" figCaption="figCaption" >}}
 
 Some text.
