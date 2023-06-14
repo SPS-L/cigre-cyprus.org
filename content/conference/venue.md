@@ -16,6 +16,5 @@ design:
     text_color_light: true
 ---
 
-{{< github-Chrede88-figArray numCols=2 srcArray="ucy.jpg,ucy.jpg" thumbCaption="thumb1,thumb2" figCaption="figCaption" >}}
 
-Some text.
+![image](ucy.jpg){: style="float: left"; margin-right: 10em; height="25%" width="25%"} ## Some Text On Left!
