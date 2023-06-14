@@ -16,9 +16,8 @@ design:
     text_color_light: true
 ---
 
-<center>
-![image](ucy.jpg)
-</center>
+<center>{{< figure src="ucy.jpg" >}}</center>
+
 <div class="text-center">
 The conference location will be at the [Univeristy of Cyprus](https://www.ucy.ac.cy/) campus in Nicosia, Cyprus.
 </div>
