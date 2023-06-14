@@ -19,11 +19,11 @@ design:
 
 ## What to submit
 
-The purpose of the CIGRE Cyprus National Conference is to showcase the research done in the area of Power and Energy Systems in Cyprus and create links between academia and industry. Thus, you are invited to submit anything you want (either already published, something not published, something you're about to publish, or even just a new idea you're working on). Presenting will not stop you from publishing your ideas elsewhere!
+The purpose of the CIGRE Cyprus National Conference is to showcase the research done in the area of Power and Energy Systems in Cyprus and create links between academia and industry. Thus, you are invited to submit **anything you want** (material already published, not published, something you're about to publish, or even just a new idea). Presenting will not stop you from publishing your ideas elsewhere! We also support the submission of both theoretical and practical work.
 
 ## Submission process
 ​
-The authors need to submit a one-page summary [using this template here](../Abstract_Template.docx) to [this link](https://form.jotform.com/231633906259460). A full paper is **not** required. The summary should cover the motivation, methodology, and application of your work.
+The authors need to submit a one-page summary using the provided template below. A full paper is **not** required. The summary should cover the motivation, methodology, and application of your work.
 
 You will be informed for the decission by email and whether it will be an oral or poster presentation based on the mix of submissions we receive.
 
