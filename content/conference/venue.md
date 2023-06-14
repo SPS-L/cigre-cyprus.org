@@ -15,6 +15,7 @@ design:
     gradient_start: '#007e4f'
     text_color_light: true
 ---
-![image](ucy.jpg){: style="float: left"}
+
+{{< github-Chrede88-figArray numCols=<numCols> srcArray="ucy.jpg,ucy.jpg" thumbCaption="thumb1,thumb2" figCaption="figCaption" >}}
 
 Some text.
