@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 1  # Order that this section will appear.
 title: CIGRE Cyprus National Conference 2023
-hero_media: CIGRE_Cyprus.png
+hero_media: CIGRE_Cyprus_conf.png
 cta:
   url: 'conference/#submission'
   label: Submit Paper
@@ -31,9 +31,5 @@ design:
 ---
 
 The CIGRE Cyprus National Conference is an annual conference organized by the CIGRE Cyprus National Committee to bring together practitioners and researchers working in the area of Power and Energy Systems in Cyprus.
-
-<br>
-
-Tuesday, Nov 14, 2023
 
 <br>

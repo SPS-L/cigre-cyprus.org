@@ -11,6 +11,10 @@ weight: 9 # The position of section on page
 #   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
 date_format: 'Monday, Jan 2, 2006'
 
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
+
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
