@@ -23,4 +23,6 @@ Details will be added closer to the date.
 | 12:30-13:30 | Lunch and Poster Session          |
 | 13:30-15:00 | Plenary Session 2                 |
 | 15:00-15:30 | Coffee break and Poster Session   |
-| 15:30-17:00 | Paper Session 1                   |
+| 15:30-17:00 | Paper Session 2                   |
+
+{{< table path="timetable.csv" header="true" caption="" >}}
