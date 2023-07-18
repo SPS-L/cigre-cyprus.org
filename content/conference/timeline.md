@@ -22,7 +22,7 @@ timeline:
     company: ''
     company_url: ''
     company_logo:
-    date_start: '2023-07-01'
+    date_start: '2023-07-19'
     date_end: '2023-09-11' 
     description: ''
                 
