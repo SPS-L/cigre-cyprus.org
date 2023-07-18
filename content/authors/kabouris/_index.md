@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Alexis Polycarpou
+title: Dr. Kabouris Yannis
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,8 +10,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Frederick University, Cyprus
-  url: "https://www.frederick.ac.cy/"
+- name: Idependent Power Transmission Operator of Greece
+  url: "https://www.admie.gr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -42,4 +42,6 @@ user_groups:
 - Keynote2023
 ---
 
-Dr. Alexis Polycarpou is a Chartered Engineer of the IET. He received his PhD in Electrical Power Systems from the University of the West of England in Bristol, UK. He worked as an International R&D Engineer for Siemens AG, Amberg, Germany, and he is currently an Associate Professor and Erasmus Coordinator at the Department of Electrical, Computer Engineering and Informatics of Frederick University, Cyprus.
+Yannis Kabouris was born in Athens on 1962. He holds a Diploma on Electrical Engineering (1985) and a PhD (1992), both from the National Technical University of Athens. From 1991 until 2001 he was working in the Public Power Corporation (PPC) - System Studies Department. He joined the Hellenic Transmission System Operator (HTSO) on 2001 and the Independent Power Transmission Operator of Greece (IPTO) on 2011.
+
+Currently, he is BoD Chairman and CEO of SELENE CC, Director in IPTO and Vice President of MeD-TSO. He is also the Chairman of the CIGRE National committee of Greece, a Distinguished member of CIGRE and Senior member of IEEE.
