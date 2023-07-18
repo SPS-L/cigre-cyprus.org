@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alexis Polycarpou
+title: Dr. Alexis Polycarpou
 
 # Is this the primary user of the site?
 superuser: false
