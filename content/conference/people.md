@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # Put Your Section Options Here (title, background, etc.) ...
 title: Keynote Speakers
 subtitle:
-weight: 4 # The position of section on page
+weight: 3 # The position of section on page
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -13,7 +13,7 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Keynote
+    - Keynote2023
 design:
   # Show user's social networking links? (true/false)
   show_social: false
