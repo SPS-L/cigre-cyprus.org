@@ -43,3 +43,5 @@ user_groups:
 ---
 
 Yannis Kabouris was born in Athens on 1962. He holds a Diploma on Electrical Engineering (1985) and a PhD (1992), both from the National Technical University of Athens. From 1991 until 2001 he was working in the Public Power Corporation (PPC) - System Studies Department. He joined the Hellenic Transmission System Operator (HTSO) on 2001 and the Independent Power Transmission Operator of Greece (IPTO) on 2011.
+
+Currently, he is BoD Chairman and CEO of SELENE CC, Director in IPTO and Vice President of MeD-TSO. He is also the Chairman of the CIGRE National committee of Greece, a Distinguished member of CIGRE and Senior member of IEEE.
