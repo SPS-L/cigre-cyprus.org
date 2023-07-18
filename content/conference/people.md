@@ -3,7 +3,7 @@ widget: people
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Keynote Speakers
+title: Confirmed Keynote Speakers
 subtitle:
 weight: 3 # The position of section on page
 
