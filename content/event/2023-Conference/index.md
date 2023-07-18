@@ -1,7 +1,7 @@
 ---
 title: CIGRE Cyprus National Conference 2023
 
-event: CIGRE Cyprus NC events
+event: CIGRE Cyprus National Conference URL
 event_url: https://cigre-cyprus.org/conference/
 
 location: University of Cyprus
@@ -54,4 +54,4 @@ slides:
 projects:
 ---
 
-
+Η CIGRE Cyprus National Committee διοργανώνει το πρώτο εθνικό συνέδριο της επιτροπής στη Κύπρο.
