@@ -22,18 +22,18 @@ bio:
 
 # List each interest with a dash
 interests:
-- Power and energy system informatics
-- Control and operation of hybrid dynamical systems
-- Modelling and simulation of large-scale power systems
+- Power and energy system planning and operation
+- Techno-economic reliability, resilience and flexibility assessment
+- Integrated modelling and simulation of large-scale critical infrastructures
 
 education:
   courses:
-  - course: PhD in Engineering Sciences
-    institution: University of Liège, Belgium
-    year: 2015
+  - course: PhD in Electrical Power Engineering
+    institution: The University of Manchester, United Kingdom
+    year: 2013
   - course: Diploma in Electrical & Computer Engineering (5-year curriculum)
-    institution: National Technical University of Athens, Greece
-    year: 2010
+    institution: Aristotle University of Thessaloniki, Greece
+    year: 2009
 
 
 # Social/Academic Networking
@@ -43,10 +43,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:petros.aristidou@cut.ac.cy'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:panteli.mathaios@ucy.ac.cy'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: 'https://linkedin.com/in/petrosaristidou'
+  link: 'https://www.linkedin.com/in/mathaios-panteli-a43ab342/'
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -61,12 +61,4 @@ user_groups:
 
 ## Short bio
 
-Petros Aristidou got his Diploma from the Department of Electrical & Computer Engineering at the National Technical University of Athens (Greece) in 2010 and his PhD at the University of Liege (Belgium) in 2015. During his PhD, he worked on domain decomposition methods for real-time dynamic security assessment of transmission systems. He took a position as a Postdoctoral Researcher at the Power Systems Laboratory at ETH Zurich (Switzerland) for one year, working on developing new control algorithms for future low-inertia power systems. Between 2016-2019 he was a Lecturer at the University of Leeds (UK), where he led the Smart Grids Lab. Since January 2020, he has been a Lecturer in Sustainable Power Systems at the Cyprus University of Technology. His expertise is in power system dynamics, planning, and control, and he has participated in several working groups looking into the challenges of low-inertia systems. Recent projects and publications can be found at https://sps.cut.ac.cy
-
-## Σύντομο βιογραφικό
-
-Ο Πέτρος Αριστείδου είναι Λέκτορας στο τμήμα Ηλεκτρολόγων Μηχανικών και Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής από τον Ιανουάριου του 2020.
-
-Είναι κάτοχος Διπλώματος Ηλεκτρολόγου Μηχανικού και Μηχανικού Υπολογιστών από το Εθνικό Μετσόβιο Πολυτεχνείο από το 2010 και Διδακτορικού στη Επιστήμη Μηχανικού από το University of Liege (Βέλγιο) το 2015. Μετά το διδακτορικό του, εργάστηκε σαν μεταδιδακτορικός ερευνητής στο πολυτεχνείο της Ζυρίχης (ETH Zurich) εργοδοτούμενος στο Ευρωπαϊκό πρόγραμμα MIGRATE που στόχο είχε τη δημιουργία νέων μεθόδων λειτουργίας και ελέγχου μελλοντικών συστημάτων ισχύος. Από το 2016 μέχρι το 2019 ήταν Λέκτορας στο University of Leeds όπου και ήταν επικεφαλής του εργαστηρίου Ευφυών Δικτύων.
-
-Η ερευνητική του δραστηριότητα επικεντρώνεται στο σχεδιασμό και ανάπτυξη υπολογιστικών μεθόδων και μεθόδων ελέγχου συστημάτων ηλεκτρικής ενέργειας, με έμφαση τα συστήματα χαμηλής αδράνειας και αυξημένης διείσδυσης ΑΠΕ. Έχει δημοσιεύσει άρθρα σε μερικά από τα πιο σημαντικά περιοδικά του τομέα, όπως IEEE Transactions on Power Systems, IEEE Transactions on Smart Grids, IEEE Transactions on Power Delivery, και IEEE Transactions on Sustainable Energy.
+Mathaios Panteli holds an Assistant Professor position within the Department of Electrical and Computer Engineering, University of Cyprus, since January 2021, and an Honorary Lecturer position at the Department of Electrical and Electronic Engineering, Imperial College London, since September 2022. Through his academic career, Mathaios has successfully developed a multi-million research portfolio, attracting funding from research councils, industry, and European Commission. His main research interests include techno-economic reliability, resilience and flexibility assessment of future low-carbon energy systems, grid integration of renewable energy sources and integrated modelling and analysis of co-dependent critical infrastructures. He has published over 100 research articles in high-impact peer-reviewed journals and conference proceedings, and he delivered several invited presentations in panel sessions of international conferences, industrial and policymaking organizations. Mathaios has collaborated with and consulted several EU and international organizations, including ENTSO-E, The World Bank, and International Institute for Environment and Development. Mathaios is an IEEE Senior Member, an IET Chartered Engineer (CEng), the Chair of the CIGRE working group C4.47 �Power System Resilience� and the CIGRE Cyprus National Committee, an invited member of multiple IEEE, CIGRE and CIRED working groups, and a Fellow of the Higher Education Academy (UK). He serves as an Associate Editor in IEEE Transactions on Sustainable Energy and IET Renewable Power Generation. He is the recipient of the prestigious 2018 Newton Prize and he was recognized in the top 12 innovators across Europe by the 2022 Innovation Radar Prize competition of the European Commission.

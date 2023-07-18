@@ -14,8 +14,8 @@ role: Treasurer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cyprus
-  url: "https://www.ucy.ac.cy/"
+- name: Electricity Authority of Cyprus
+  url: "https://www.eac.com.cy/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fthera01@ucy.ac.cy'
+  link: 'mailto:ptherapo@eac.com.cy'
 - icon: linkedin
   icon_pack: fab
   link: 'https://linkedin.com/in/phivos-therapontos-92230a124'
@@ -56,4 +56,6 @@ user_groups:
 - Committee
 ---
 
-He obtained his BSc degree in Electrical Engineering from the University of Cyprus in 2016 and his MSc degree in 2017 from the University of Southampton in Energy and Sustainability with Electrical Power Engineering. He is currently pursuing his Ph.D at the Department of Electrical and Computer Engineering of the University of Cyprus. He currently works for the Distribution System Operator (DSO) of the Electricity Authority of Cyprus (EAC).
+## Short bio
+
+Phivos Therapontos obtained his BSc degree in Electrical Engineering from the University of Cyprus in 2016 and his MSc degree in 2017 from the University of Southampton in Energy and Sustainability with Electrical Power Engineering. He is currently pursuing his Ph.D at the Department of Electrical and Computer Engineering of the University of Cyprus. He currently works for the Distribution System Operator (DSO) of the Electricity Authority of Cyprus (EAC).
