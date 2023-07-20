@@ -26,7 +26,7 @@ timeline:
     date_end: '2023-09-11' 
     description: ''
                 
-  - title: 'Paper Acceptance Announcement'
+  - title: 'Acceptance Announcement'
     company: ''
     company_url: ''
     company_logo:
