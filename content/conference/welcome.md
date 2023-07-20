@@ -10,7 +10,7 @@ title: CIGRE Cyprus National Conference 2023
 hero_media: CIGRE_Cyprus_conf.png
 cta:
   url: 'conference/#submission'
-  label: Submit Paper
+  label: Submit Abstract
   icon_pack: fas
   icon: upload
 
