@@ -3,13 +3,14 @@ widget: timeline
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Timeline
+title: Important Dates
 subtitle:
-weight: 10 # The position of section on page
+weight: 9 # The position of section on page
 
 # Date format
 #   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
 date_format: 'Monday, Jan 2, 2006'
+
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
@@ -18,20 +19,20 @@ date_format: 'Monday, Jan 2, 2006'
 #   Begin/end multi-line descriptions with `>-`.
 timeline:
   - title: 'Call for abstracts'
-    company: 'Abstract Submission Link'
-    company_url: 'https://forms.gle/A9Mb9gZq62GjkdKN6'
+    company: ''
+    company_url: ''
     company_logo:
-    date_start: '2023-07-01'
+    date_start: '2023-07-19'
     date_end: '2023-09-11' 
-    description: 'Abstracts will be accepted and reviewed.'
+    description: ''
                 
-  - title: 'Paper Acceptance Announcement'
+  - title: 'Acceptance Announcement'
     company: ''
     company_url: ''
     company_logo:
     date_start: '2023-09-30'
     date_end: ''
-    description: 'The authors will receive an acceptance email.'
+    description: ''
 
   - title: 'Registration'
     company: ''
@@ -39,7 +40,7 @@ timeline:
     company_logo:
     date_start: '2023-10-01' 
     date_end: '2023-11-14' 
-    description: 'The registration will open and will continue until the day of the conference or the maximum number of attendees.'
+    description: ''
 
   - title: 'Conference Day'
     company: ''
@@ -47,6 +48,6 @@ timeline:
     company_logo:
     date_start: '2023-11-14' 
     date_end: ''
-    description: 'Information about the venue will be announced closer to the date.'
+    description: ''
     
 --- 

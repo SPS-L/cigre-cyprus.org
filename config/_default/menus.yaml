@@ -16,6 +16,9 @@ main:
   - name: Conference
     url: conference
     weight: 50
+  - name: People
+    url: people
+    weight: 55
   - name: Contact
     url: "#contact"
     weight: 60
