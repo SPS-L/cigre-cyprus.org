@@ -23,7 +23,7 @@ timeline:
     company_url: ''
     company_logo:
     date_start: '2023-07-19'
-    date_end: '2023-09-15' 
+    date_end: '2023-09-18' 
     description: ''
                 
   - title: 'Acceptance Announcement'
