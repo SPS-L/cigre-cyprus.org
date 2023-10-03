@@ -9,8 +9,8 @@ weight: 1  # Order that this section will appear.
 title: CIGRE Cyprus National Conference 2023
 hero_media: CIGRE_Cyprus_conf.png
 cta:
-  url: 'conference/#submission'
-  label: Submit Abstract
+  url: 'https://form.jotform.com/232753335128455'
+  label: Register
   icon_pack: fas
   icon: upload
 
