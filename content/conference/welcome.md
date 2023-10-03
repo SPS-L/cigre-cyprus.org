@@ -12,7 +12,7 @@ cta:
   url: 'https://form.jotform.com/232753335128455'
   label: Register
   icon_pack: fas
-  icon: upload
+  icon: pen
 
 # Note. An optional note to show underneath the links.
 cta_note:
