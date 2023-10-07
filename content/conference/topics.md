@@ -7,13 +7,6 @@ title: Conference Topics
 subtitle:
 weight: 4 # The position of section on page
 
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  background:
-    gradient_end: '#004ba0'
-    gradient_start: '#007e4f'
-    text_color_light: true
 
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.
