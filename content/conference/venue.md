@@ -19,5 +19,7 @@ design:
 <center>{{< figure src="ucy.jpg" >}}</center>
 
 <div class="text-center">
-The conference location will be at the Univeristy of Cyprus campus in Nicosia, Cyprus.
+The conference location will be at room B108, University House "Anastasios G. Leventis", University of Cyprus campus in Nicosia, Cyprus.
+
+ΚΤΗΡΙΟ ΣΥΜΒΟΥΛΙΟΥ-ΣΥΓΚΛΗΤΟΥ ΑΝΑΣΤΑΣΙΟΣ Γ. ΛΕΒΕΝΤΗ, Αίθουσα Β108
 </div>
