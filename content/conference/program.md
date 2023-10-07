@@ -12,4 +12,4 @@ design:
   columns: '1'
 ---
 
-{{< table path="timetable.csv" header="true" delimiter=";" caption="Tentative timetable of conference" >}}
+{{< table path="timetable.csv" header="true" delimiter=";" caption="Overview of conference" >}}
