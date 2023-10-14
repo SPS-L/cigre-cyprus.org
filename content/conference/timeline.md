@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 # Put Your Section Options Here (title, background, etc.) ...
 title: Important Dates
 subtitle:
-weight: 9 # The position of section on page
+weight: 14 # The position of section on page
 
 # Date format
 #   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
