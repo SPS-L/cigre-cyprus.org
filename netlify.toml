@@ -34,3 +34,8 @@
   from = "/profile"
   to = "https://cigre-cyprus.org/Cyprus_NC_Profile.pdf"
   status = 302
+
+[[redirects]]
+  from = "/2023_NC_photos"
+  to = "https://photos.app.goo.gl/pXYJkCHB5kkarj3R9"
+  status = 302
