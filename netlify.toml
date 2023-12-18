@@ -29,3 +29,8 @@
   from = "/WGs"
   to = "https://www.dropbox.com/s/ynva0k222fxjrf8/WG_members.xlsx?dl=0"
   status = 302
+
+[[redirects]]
+  from = "/profile"
+  to = "https://cigre-cyprus.org/Cyprus_NC_Profile.pdf"
+  status = 302
