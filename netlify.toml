@@ -39,3 +39,8 @@
   from = "/2023_NC_photos"
   to = "https://photos.app.goo.gl/pXYJkCHB5kkarj3R9"
   status = 302
+
+[[redirects]]
+  from = "/webinar"
+  to = "https://events.teams.microsoft.com/event/1e9a71aa-1834-49a7-a8c4-24406c85d917@8f7698bc-b1b4-439f-b259-0213401d1cfb"
+  status = 302
