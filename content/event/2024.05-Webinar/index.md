@@ -80,7 +80,7 @@ Ministry, and the national commission on markets and competition.
 
 # Speaker Bio
 
-Sergio works since 2005 for Red Eléctrica, the transmission system operator
+**Sergio Martínez Villanueva** works since 2005 for Red Eléctrica, the transmission system operator
 (TSO) of the Spanish electricity system, in the Power System Reliability
 Department. His key tasks in Red Eléctrica have always been related to power
 system modelling and analysis and the investigation of technical requirements
