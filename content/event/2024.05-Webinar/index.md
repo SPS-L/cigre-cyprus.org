@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: ""
+summary: "Webinar presented by Sergio Martínez Villanueva on the European Network Code."
 abstract: ""
 
 # Talk start and end times.
