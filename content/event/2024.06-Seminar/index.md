@@ -13,7 +13,7 @@ address:
   postcode: 2025
   country: Cyprus
 
-summary: "Webinar presented by Prof. Luis(Nando) Ochoa  on the The Australian Approach to Solar PV and Distribution Networks."
+summary: "Seminar presented by Prof. Luis(Nando) Ochoa  on the The Australian Approach to Solar PV and Distribution Networks."
 abstract: ""
 
 # Talk start and end times.
