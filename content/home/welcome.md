@@ -9,8 +9,8 @@ weight: 10  # Order that this section will appear.
 title: Welcome to CIGRE Cyprus
 hero_media: CIGRE_Cyprus.png
 cta:
-  url: 'https://cigre-cyprus.org/register'
-  label: Register
+  url: 'https://cigre-cyprus.org/join'
+  label: Join Us Today!
   icon_pack: fas
   icon: user-plus
 
