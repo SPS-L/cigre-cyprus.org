@@ -46,6 +46,11 @@
   status = 302
 
 [[redirects]]
+  from = "/seminar-registration"
+  to = "https://docs.google.com/forms/d/e/1FAIpQLSfRsusb8vpgD4fAWzofo_jJYMAvZGCUcCD5e2vPbaQrW2D_XA/viewform?usp=dialog"
+  status = 302
+
+[[redirects]]
   from = "/seminar"
   to = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmJhODBhYmYtNmU1ZS00Mjc0LTgyZTQtYWQwMTg2ODAzMzUw%40thread.v2/0?context=%7b%22Tid%22%3a%228dd1e6b4-8dac-408e-8d8d-6753e9800530%22%2c%22Oid%22%3a%222c7def7d-c1be-4982-9abd-6744164cbd75%22%7d"
   status = 302
