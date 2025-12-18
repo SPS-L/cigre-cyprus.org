@@ -4,7 +4,8 @@ title: "Electricity Markets and Power System Operation"
 event: CIGRE Cyprus Seminar
 event_url: https://cigre-cyprus.org/seminar-register
 
-location: University of Cyprus
+location: Αμφ. Ηλίας Κυριακίδης / Β102, ENG 10- ΠΟΛ 10, Νέα πολυτεχνική Σχολή, Πανεπιστήμιο
+Κύπρου
 address:
   street: 
   city: 
