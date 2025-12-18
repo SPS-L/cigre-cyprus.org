@@ -4,8 +4,7 @@ title: "Αγορές ηλεκτρικής ενέργειας και τη λει�
 event: CIGRE Cyprus Seminar
 event_url: https://cigre-cyprus.org/seminar-register
 
-location: Αμφ. Ηλίας Κυριακίδης / Β102, ENG 10- ΠΟΛ 10, Νέα πολυτεχνική Σχολή, Πανεπιστήμιο
-Κύπρου
+location: Αμφ. Ηλίας Κυριακίδης / Β102, ENG 10- ΠΟΛ 10, Νέα πολυτεχνική Σχολή, Πανεπιστήμιο Κύπρου
 address:
   street: 
   city: 
