@@ -1,5 +1,5 @@
 ---
-title: "Electricity Markets and Power System Operation"
+title: "Αγορές ηλεκτρικής ενέργειας και τη λειτουργία συστημάτων ισχύος"
 
 event: CIGRE Cyprus Seminar
 event_url: https://cigre-cyprus.org/seminar-register
@@ -14,7 +14,7 @@ address:
   country: 
 
 summary: "Full-day seminar on electricity markets and power system operation, focusing on market design, balancing, reserves, and adequacy mechanisms."
-abstract: "CIGRE Cyprus organizes a full-day seminar on Monday, January 26, 2026, on electricity markets and power system operation, with a focus on market design, balancing, reserves, and adequacy mechanisms. The seminar combines theoretical background with practical approaches and international best practices."
+abstract: "Η CIGRE Cyprus διοργανώνει ολοήμερη ημερίδα τη Δευτέρα 26.01.2026 με θέμα τις αγορές ηλεκτρικής ενέργειας και τη λειτουργία συστημάτων ισχύος, με εστίαση στον σχεδιασμό αγορών, την εξισορρόπηση, τις εφεδρείες και τους μηχανισμούς επάρκειας. Η ημερίδα συνδυάζει θεωρητικό υπόβαθρο με πρακτικές προσεγγίσεις και διεθνείς καλές πρακτικές."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -55,40 +55,45 @@ slides:
 projects:
 ---
 
-# Program
+# Πρόγραμμα Ημέρας
 
-- **8:30–9:00** Registration and coffee
-- **9:00–10:30** Session 1
-- **10:30–11:00** Coffee break
-- **11:00–12:30** Session 2
-- **12:30–13:30** Light lunch break
-- **13:30–15:00** Session 3
+- 8:30–9:00 Εγγραφή και καφές
+- 9:00–10:30 Ενότητα 1
+- 10:30–11:00 Διάλειμμα καφέ
+- 11:00–12:30 Ενότητα 2
+- 12:30–13:30 Διάλειμμα για ελαφρύ γεύμα
+- 13:30–15:00 Ενότητα 3
 
-# Topics
 
-- **Electricity market operation**: Power pools and exchanges, uniform price auctions and pay-as-bid auctions, European and American market design models.
-- **Microeconomics**: Perfect competition, imperfect competition (monopoly and oligopoly), market power mitigation.
-- **Reserves and balancing**: Classification of ancillary services and reserves, reserve market design, scarcity pricing through reserves, balancing, reserve sizing.
-- **Day-ahead market**: Pricing in non-convex markets, the EUPHEMIA algorithm, products and pricing of the pan-European electricity market.
-- **Adequacy and adequacy mechanisms**: Long-term system expansion, long-term competitive equilibrium, adequacy studies, investment incentive mechanisms (capacity mechanisms and scarcity pricing).
+# Θεματολογία
 
-# Speaker
+- **Λειτουργία αγορών ηλεκτρικής ενέργειας**: power pools και exchanges, δημοπρασίες ενιαίας τιμής και δημοπρασίες πληρωμής στην τιμή προσφοράς, το ευρωπαϊκό και αμερικάνικο μοντέλο σχεδιασμού.
+- **Μικροοικονομικά**: τέλειος ανταγωνισμός, ατελής ανταγωνισμός (μονοπώλιο και ολιγοπώλιο), market power mitigation.
+- **Εφεδρείες και εξισορρόπηση**: κατηγοριοποίηση επικουρικών υπηρεσιών και εφεδρειών, σχεδιασμός αγορών εφεδρειών, scarcity pricing μέσω εφεδρειών, εξισορρόπηση, διαστασιολόγηση εφεδρειών.
+- **Αγορά επόμενης ημέρας**: τιμολόγηση σε μη κυρτές αγορές, ο αλγόριθμος EUPHEMIA, προϊόντα και τιμολόγηση της πανευρωπαϊκής αγοράς ηλεκτρισμού.
+- **Επάρκεια και μηχανισμοί επάρκειας**: μακροπρόθεσμη επέκταση συστήματος, μακροπρόθεσμη ανταγωνιστική ισορροπία, μελέτες επάρκειας, μηχανισμοί τόνωσης επενδύσεων (capacity mechanisms και scarcity pricing).
 
-**Dr. Antonis Papavasiliou** is Associate Professor at the School of Electrical and Computer Engineering, National Technical University of Athens.
 
-**Email**: papavasiliou@mail.ntua.gr
+# Εισηγητής
 
-**Short Bio**: He has served as Associate Professor at CORE (Université Catholique de Louvain). He holds a PhD and postdoctoral degree from UC Berkeley (Industrial Engineering & Operations Research) under the supervision of Prof. Shmuel Oren. He has served as Associate Editor for Operations Research and IEEE Transactions on Power Systems, and as a member of program committees for international conferences. Awards: INFORMS Best Publication in Energy (2015) and runner-up (2021), ERC Starting Grant (2019), Bodossaki Foundation Distinguished Young Scientist Award in Applied Sciences (2021). Consulting experience with Transmission System Operators, regulatory authorities, energy exchanges, and utilities on electricity markets and system operation.
+- Δρ. Αντώνης Παπαβασιλείου, Αναπληρωτής Καθηγητής, Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών, Εθνικό Μετσόβιο Πολυτεχνείο
+- **Email**: papavasiliou@mail.ntua.gr 
+- **Σύντομο βιογραφικό**: Έχει υπηρετήσει ως Αναπληρωτής Καθηγητής στο CORE (Université Catholique de Louvain). Διδάκτωρ και μεταδιδάκτωρ στο UC Berkeley (Industrial Engineering & Operations Research) με επιβλέποντα τον Prof. Shmuel Oren. Έχει διατελέσει Associate Editor στα Operations Research και IEEE Transactions on Power Systems, και μέλος επιτροπών προγραμμάτων διεθνών συνεδρίων. Διακρίσεις: INFORMS Best Publication in Energy (2015) και runner-up (2021), ERC Starting Grant (2019), Βραβείο Ιδρύματος Μποδοσάκη Διακεκριμένου Νέου Επιστήμονα στις Εφαρμοσμένες Επιστήμες (2021). Συμβουλευτική εμπειρία σε Διαχειριστές Συστημάτων Μεταφοράς, ρυθμιστικές αρχές, χρηματιστήρια ενέργειας και επιχειρήσεις κοινής ωφέλειας σε θέματα αγορών ηλεκτρισμού και λειτουργίας συστημάτων.
 
-# Audience
 
-Power engineers, electricity market analysts, regulatory authority staff, system operators and energy exchange staff, academics and graduate students with an interest in markets and system design.
+# Κοινό
 
-# Registration
+- Μηχανικοί ισχύος, αναλυτές αγορών ηλεκτρικής ενέργειας, στελέχη ρυθμιστικών αρχών, διαχειριστές συστημάτων και χρηματιστήρια ενέργειας, ακαδημαϊκοί και μεταπτυχιακοί φοιτητές με ενδιαφέρον στις αγορές και τον σχεδιασμό συστήματος.
 
-Registration is mandatory and there is a limit of 40 people.
+# Τοποθεσία
 
-- For CIGRE Cyprus members, registration is covered by CIGRE.
-- For non-members, registration is **100 euros** to cover expenses.
+- Αμφ. Ηλίας Κυριακίδης / Β102, ENG 10- ΠΟΛ 10, Νέα πολυτεχνική Σχολή, Πανεπιστήμιο Κύπρου
+
+
+# Εγγραφή
+
+- Η εγγραφή είναι υποχρεωτική και υπάρχει όριο 40 ατόμων.
+- Για μέλη CIGRE Cyprus, η εγγραφή καλύπτεται από τη CIGRE. Για μη μέλη, η εγγραφή είναι **100 ευρώ** για την κάλυψη των εξόδων.
+
 
 **Registration Link**: https://cigre-cyprus.org/seminar-registration
