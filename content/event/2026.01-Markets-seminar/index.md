@@ -88,6 +88,6 @@ Power engineers, electricity market analysts, regulatory authority staff, system
 Registration is mandatory and there is a limit of 40 people.
 
 - For CIGRE Cyprus members, registration is covered by CIGRE.
-- For non-members, registration is 50 euros to cover expenses.
+- For non-members, registration is **100 euros** to cover expenses.
 
 **Registration Link**: https://cigre-cyprus.org/seminar-registration
