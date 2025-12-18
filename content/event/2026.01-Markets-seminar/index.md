@@ -35,7 +35,7 @@ image:
   focal_point: 
 
 url_code: ""
-url_pdf: "Markets.pdf"
+url_pdf: "event/2026.01-markets-seminar/Markets.pdf"
 url_slides: ""
 url_video: ""
 
