@@ -23,7 +23,7 @@
 [[redirects]]
   from = "/join"
   to = "https://cigre-cyprus-join.lovable.app"
-  status = 302
+  status = 200
 
 [[redirects]]
   from = "/WGs"
