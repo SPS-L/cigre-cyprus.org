@@ -2,7 +2,7 @@
 title: "Utility-scale and distributed batteries in renewables-dominated power systems: experiences and lessons learnt from Australia"
 
 event: CIGRE Cyprus & IEEE Cyprus Section Seminar
-event_url: https://cigre-cyprus.org/seminar
+event_url: 
 
 location: ELECTRON room, Electricity Authority of Cyprus Central offices
 address:
@@ -22,7 +22,7 @@ date_end: "2026-06-05T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2026-05-20T16:30:00Z"
+publishDate: "2026-05-18T16:30:00Z"
 
 authors: []
 tags: []
