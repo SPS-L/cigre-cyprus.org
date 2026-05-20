@@ -35,7 +35,7 @@ image:
   focal_point: 
 
 url_code: ""
-url_pdf: ""
+url_pdf: "event/2024.05-webinar/Sergio.pdf"
 url_slides: ""
 url_video: ""
 

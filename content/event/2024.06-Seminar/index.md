@@ -36,7 +36,7 @@ image:
   focal_point: 
 
 url_code: ""
-url_pdf: ""
+url_pdf: "event/2024.06-seminar/Nando.pdf"
 url_slides: ""
 url_video: ""
 
