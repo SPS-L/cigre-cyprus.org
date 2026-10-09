@@ -62,7 +62,7 @@ The `{{< table path="…csv" >}}` shortcode now resolves the path through `.Page
 
 ### Netlify redirects
 
-`netlify.toml` contains a small set of short-link redirects (e.g. `/profile`, `/seminar`, `/join`) that point to external services or PDFs in `static/`. When adding event registration links or external resources, prefer adding a redirect here over hardcoding long URLs in content.
+`netlify.toml` contains a small set of short-link redirects (e.g. `/profile`, `/2023_NC_photos`) that point to external services or PDFs in `static/`. When adding event registration links or external resources, prefer adding a redirect here over hardcoding long URLs in content.
 
 ### Static assets vs. Hugo assets
 
