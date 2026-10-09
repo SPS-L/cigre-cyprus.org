@@ -2,7 +2,7 @@
 title: "Ensuring Safety and Integrity in Energy Corridors with Coexisting Power Systems and Fuel Transportation Pipelines"
 
 event: CIGRE Cyprus Seminar
-event_url: https://cigre-cyprus.org/seminar
+event_url: 
 
 location: ELECTRON room, Central Electricity Authority of Cyprus offices
 address:

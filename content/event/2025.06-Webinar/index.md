@@ -2,7 +2,7 @@
 title: "Blackout in Spain and Portugal: What do we know so far?"
 
 event: CIGRE Cyprus Webinar
-event_url: https://cigre-cyprus.org/seminar
+event_url: 
 
 location: Online
 address:
