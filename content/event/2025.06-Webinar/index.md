@@ -18,7 +18,7 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2025-06-10T10:00:00Z"
-#date_end: "2030-06-01T15:00:00Z"
+date_end: "2025-06-10T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,7 +35,7 @@ image:
   focal_point: 
 
 url_code: ""
-url_pdf: ""
+url_pdf: "event/2025.06-webinar/Badesa.pdf"
 url_slides: ""
 url_video: ""
 
@@ -61,3 +61,7 @@ In this talk we will summarize the available information on the series of events
 # Speaker Bio
 
 **Luis Badesa** is Associate Professor in Electrical Engineering at UPM and Visiting Researcher at Imperial College London, where he obtained his PhD in 2020. He studies the operation and economics of electricity grids on the road to decarbonization, where maintaining stability is a major challenge. He is currently PI of two national projects and supervisor of 4 PhD students working in this area.
+
+# Organization
+
+This webinar was organized jointly by the **CIGRE Cyprus National Committee** and the **CIGRE Greece National Committee**.
