@@ -2,7 +2,7 @@
 title: "The Storage Revolution in Chile: Regulatory Design, Investment and Wholesale Market Effects"
 
 event: CIGRE Cyprus & CIGRE Greece Webinar
-event_url: https://cigre-cyprus.org/seminar
+event_url: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDIzZTg0MzctNDEwMi00ZDQ1LTgyOTctMjBiMzgyMWFiOThi%40thread.v2/0?context=%7b%22Tid%22%3a%228dd1e6b4-8dac-408e-8d8d-6753e9800530%22%2c%22Oid%22%3a%222c7def7d-c1be-4982-9abd-6744164cbd75%22%7d"
 
 location: Online (Microsoft Teams)
 address:
