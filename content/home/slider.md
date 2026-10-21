@@ -46,13 +46,5 @@ content:
       position: center
       color: '#333'
       brightness: 0.5
-      media: people-slider.jpg
-  - title: 
-    content: 
-    align: right
-    background:
-      position: center
-      color: '#333'
-      brightness: 0.5
       media: slideshow-3.jpg
 ---
